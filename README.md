@@ -21,3 +21,18 @@ The Podfile is a specification that describes the dependencies of the targets of
 
 
 
+### Commands for Cocoapods
+
+to install CocoaPods: sudo gem install cocoapods
+
+create the Podfile: pod init
+
+open the Podfile: open -a Xcode Podfile
+
+install Podfile: pod install
+
+then open workspace ver of Project / Import 
+
+
+
+
